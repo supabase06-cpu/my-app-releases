@@ -14,7 +14,7 @@
 ### Release Info:
 - **Version**: 1.0.0
 - **Build**: 12
-- **Released**: 2026-01-12 22:55:43 UTC
+- **Released**: 2026-01-12 23:04:15 UTC
 - **OTA Updates**: Enabled via Shorebird
 
 ---
