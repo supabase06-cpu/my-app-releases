@@ -1,10 +1,10 @@
 # POS Supermart Releases
 
-## Latest Release: v1.0.0+13
+## Latest Release: v1.0.0+14
 
 ### Download Links:
 - **Latest APK**: [pos-supermart-latest.apk](https://github.com/supabase06-cpu/my-app-releases/raw/main/pos-supermart-latest.apk)
-- **Versioned APK**: [pos-supermart-v1.0.0+13.apk](https://github.com/supabase06-cpu/my-app-releases/raw/main/pos-supermart-v1.0.0+13.apk)
+- **Versioned APK**: [pos-supermart-v1.0.0+14.apk](https://github.com/supabase06-cpu/my-app-releases/raw/main/pos-supermart-v1.0.0+14.apk)
 
 ### Installation:
 1. Download the APK file
@@ -13,8 +13,8 @@
 
 ### Release Info:
 - **Version**: 1.0.0
-- **Build**: 13
-- **Released**: 2026-01-12 23:05:55 UTC
+- **Build**: 14
+- **Released**: 2026-01-12 23:10:21 UTC
 - **OTA Updates**: Enabled via Shorebird
 
 ---
